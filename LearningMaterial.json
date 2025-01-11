@@ -1,0 +1,30 @@
+[
+ {
+   "Course": "AI",
+   "ModuleName[ENG]": "1-Foundations of AI",
+   "Link[ENG]": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module1-FoundationsOfAI_WhatIsAI.md",
+   "ModuleName[SPA]": "1-Fundamentos de la Inteligencia Artificial",
+   "Link[SPA]": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module1-FoundationsOfAI_WhatIsAI.md"
+ },
+ {
+   "Course": "AI",
+   "ModuleName[ENG]": "2-Maths for AI",
+   "Link[ENG]": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module2-MathForAI.md",
+   "ModuleName[SPA]": "2-Matemáticas para la AI",
+   "Link[SPA]": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module2-MathForAI.md"
+ },
+ {
+   "Course": "Statistics",
+   "ModuleName[ENG]": "1-Statistics Introduction",
+   "Link[ENG]": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module1-FoundationsOfAI_WhatIsAI.md",
+   "ModuleName[SPA]": "1-Statistics Introduction",
+   "Link[SPA]": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module1-FoundationsOfAI_WhatIsAI.md"
+ },
+ {
+   "Course": "Statistics",
+   "ModuleName[ENG]": "1-Maths introduction",
+   "Link[ENG]": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module1-FoundationsOfAI_WhatIsAI.md",
+   "ModuleName[SPA]": "1-Maths introduction",
+   "Link[SPA]": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module1-FoundationsOfAI_WhatIsAI.md"
+ }
+]
