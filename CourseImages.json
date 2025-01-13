@@ -1,18 +1,18 @@
 [
  {
    "course": "AI",
-   "imageURL": "https://github.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/blob/main/IMAGES/AI_Course.jpg",
+   "image_url": "https://github.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/blob/main/IMAGES/AI_Course.jpg",
  },
  {
    "course": "Math",
-   "imageURL": "https://github.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/blob/main/IMAGES/AI_Course.jpg",
+   "image_url": "https://github.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/blob/main/IMAGES/AI_Course.jpg",
 },
  {
    "course": "Statistics",
-   "imageURL": "https://github.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/blob/main/IMAGES/AI_Course.jpg",
+   "image_url": "https://github.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/blob/main/IMAGES/AI_Course.jpg",
 },
  {
    "course": "Physics",
-   "imageURL": "https://github.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/blob/main/IMAGES/AI_Course.jpg",
+   "image_url": "https://github.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/blob/main/IMAGES/AI_Course.jpg",
  }
 ]
