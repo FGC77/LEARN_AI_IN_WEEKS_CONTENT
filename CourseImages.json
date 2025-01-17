@@ -3,24 +3,24 @@
    "course": "AI",
    "image_url": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/IMAGES/AI_Course.jpg",
    "status" : "NEW",
-   "available" : "true"
+   "available" : true
  },
  {
    "course": "Math",
    "image_url": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/IMAGES/Math_Course.jpg",
    "status" : "COMING SOON",
-   "available" : "false"
+   "available" : false
 },
  {
    "course": "Statistics",
    "image_url": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/IMAGES/Statistics_Course.png",
    "status" : "COMING SOON",
-   "available" : "false"
+   "available" : false
 },
  {
    "course": "Physics",
    "image_url": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/IMAGES/Physics_Course.png",
    "status" : "COMING SOON",
-   "available" : "false"
+   "available" : false
  }
 ]
