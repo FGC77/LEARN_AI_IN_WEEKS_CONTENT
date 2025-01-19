@@ -14,17 +14,31 @@
    "moduleURL_ESP": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module2-MathForAI.md"
  },
  {
-   "courseName": "Statistics",
-   "moduleName_ENG": "1-Statistics Introduction",
+   "courseName": "AI",
+   "moduleName_ENG": "3-Statistics and Probability for AI",
+   "moduleURL_ENG": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/AI/Module3-StatisticsAndProbabilityForAI.md",
+   "moduleName_ESP": "3-Statistics and Probability for AI",
+   "moduleURL_ESP": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/AI/Module3-StatisticsAndProbabilityForAI.md"
+ },
+ {
+   "courseName": "Maths",
+   "moduleName_ENG": "1-Maths Introduction",
    "moduleURL_ENG": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module1-FoundationsOfAI_WhatIsAI.md",
-   "moduleName_ESP": "1-Statistics Introduction",
+   "moduleName_ESP": "1-Maths Introduction",
    "moduleURL_ESP": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module1-FoundationsOfAI_WhatIsAI.md"
  },
  {
    "courseName": "Statistics",
-   "moduleName_ENG": "1-Maths introduction",
+   "moduleName_ENG": "1-Statistics introduction",
    "moduleURL_ENG": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module1-FoundationsOfAI_WhatIsAI.md",
-   "moduleName_ESP": "1-Maths introduction",
+   "moduleName_ESP": "1-Statistics introduction",
+   "moduleURL_ESP": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module1-FoundationsOfAI_WhatIsAI.md"
+ },
+  {
+   "courseName": "Physics",
+   "moduleName_ENG": "1-Physics Introduction",
+   "moduleURL_ENG": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module1-FoundationsOfAI_WhatIsAI.md",
+   "moduleName_ESP": "1-Physics Introduction",
    "moduleURL_ESP": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module1-FoundationsOfAI_WhatIsAI.md"
  }
 ]
