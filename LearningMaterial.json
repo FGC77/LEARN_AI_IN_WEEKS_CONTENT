@@ -2,43 +2,43 @@
  {
    "courseName": "AI",
    "moduleName_ENG": "1-Foundations of AI",
-   "moduleURL_ENG": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module1-FoundationsOfAI_WhatIsAI.md",
+   "moduleURL_ENG": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module1-FoundationsOfAI_WhatIsAI.md",
    "moduleName_ESP": "1-Fundamentos de la Inteligencia Artificial",
-   "moduleURL_ESP": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module1-FoundationsOfAI_WhatIsAI.md"
+   "moduleURL_ESP": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module1-FoundationsOfAI_WhatIsAI.md"
  },
  {
    "courseName": "AI",
    "moduleName_ENG": "2-Maths for AI",
-   "moduleURL_ENG": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module2-MathForAI.md",
+   "moduleURL_ENG": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module2-MathForAI.md",
    "moduleName_ESP": "2-Matemáticas para la AI",
-   "moduleURL_ESP": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module2-MathForAI.md"
+   "moduleURL_ESP": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module2-MathForAI.md"
  },
  {
    "courseName": "AI",
    "moduleName_ENG": "3-Statistics and Probability for AI",
-   "moduleURL_ENG": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/AI/Module3-StatisticsAndProbabilityForAI.md",
+   "moduleURL_ENG": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module3-StatisticsAndProbabilityForAI.md",
    "moduleName_ESP": "3-Statistics and Probability for AI",
-   "moduleURL_ESP": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/AI/Module3-StatisticsAndProbabilityForAI.md"
+   "moduleURL_ESP": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module3-StatisticsAndProbabilityForAI.md"
  },
  {
    "courseName": "Maths",
    "moduleName_ENG": "1-Maths Introduction",
-   "moduleURL_ENG": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module1-FoundationsOfAI_WhatIsAI.md",
+   "moduleURL_ENG": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module1-FoundationsOfAI_WhatIsAI.md",
    "moduleName_ESP": "1-Maths Introduction",
-   "moduleURL_ESP": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module1-FoundationsOfAI_WhatIsAI.md"
+   "moduleURL_ESP": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module1-FoundationsOfAI_WhatIsAI.md"
  },
  {
    "courseName": "Statistics",
    "moduleName_ENG": "1-Statistics introduction",
-   "moduleURL_ENG": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module1-FoundationsOfAI_WhatIsAI.md",
+   "moduleURL_ENG": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module1-FoundationsOfAI_WhatIsAI.md",
    "moduleName_ESP": "1-Statistics introduction",
-   "moduleURL_ESP": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module1-FoundationsOfAI_WhatIsAI.md"
+   "moduleURL_ESP": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module1-FoundationsOfAI_WhatIsAI.md"
  },
   {
    "courseName": "Physics",
    "moduleName_ENG": "1-Physics Introduction",
-   "moduleURL_ENG": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module1-FoundationsOfAI_WhatIsAI.md",
+   "moduleURL_ENG": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module1-FoundationsOfAI_WhatIsAI.md",
    "moduleName_ESP": "1-Physics Introduction",
-   "moduleURL_ESP": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/Module1-FoundationsOfAI_WhatIsAI.md"
+   "moduleURL_ESP": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module1-FoundationsOfAI_WhatIsAI.md"
  }
 ]
