@@ -1,5 +1,3 @@
-Test: Foundations of AI
-Multiple Choice Questions
 1. Who is considered the "Father of Artificial Intelligence"?
 A. Alan Turing
 B. John McCarthy
