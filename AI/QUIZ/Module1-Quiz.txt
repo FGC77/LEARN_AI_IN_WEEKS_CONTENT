@@ -1,0 +1,63 @@
+Test: Foundations of AI
+Multiple Choice Questions
+1. Who is considered the "Father of Artificial Intelligence"?
+A. Alan Turing
+B. John McCarthy
+C. Marvin Minsky
+D. Herbert A. Simon
+ (Answer: B)
+2. What was the primary goal of the Dartmouth Workshop in 1956?
+A. To create the first AI-based computer
+B. To establish AI as a formal field of study
+C. To design expert systems for practical applications
+D. To implement machine learning algorithms
+ (Answer: B)
+3. Which of the following best defines Artificial Intelligence?
+A. The study of programming languages
+B. The ability of a computer to perform tasks that typically require human intelligence
+C. The creation of hardware for computational tasks
+D. The development of algorithms for numerical computation
+ (Answer: B)
+4. What is the Turing Test used for?
+A. Evaluating computer hardware performance
+B. Determining if a machine exhibits human-like intelligence
+C. Testing the speed of machine learning models
+D. Assessing neural network architectures
+ (Answer: B)
+5. Which of these is NOT a type of AI system?
+A. Symbolic AI
+B. Machine Learning
+C. Quantum Computing
+D. Neural Networks
+ (Answer: C)
+6. Which programming language was most associated with early AI research?
+A. Python
+B. Lisp
+C. Java
+D. C++
+ (Answer: B)
+7. What is the main difference between narrow AI and general AI?
+A. Narrow AI performs specific tasks, while general AI can perform any intellectual task
+B. Narrow AI is theoretical, while general AI is practical
+C. Narrow AI uses symbolic reasoning, while general AI uses neural networks
+D. Narrow AI operates independently, while general AI requires human oversight
+ (Answer: A)
+8. Who proposed the concept of a "Universal Machine"?
+A. John McCarthy
+B. Alan Turing
+C. Marvin Minsky
+D. Norbert Wiener
+ (Answer: B)
+9. What is an "expert system" in the context of AI?
+A. A program that performs basic arithmetic tasks
+B. A system that uses rules and logic to solve domain-specific problems
+C. A network of interconnected neurons for learning patterns
+D. A computer program for controlling hardware devices
+ (Answer: B)
+10. Which of the following best describes machine learning?
+A. Hardcoding specific rules into a program
+B. Training machines to perform tasks by learning from data
+C. Programming robots to perform physical actions
+D. Developing symbolic representations for AI tasks
+ (Answer: B)
+
