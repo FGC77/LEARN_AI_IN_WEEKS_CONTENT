@@ -46,13 +46,11 @@ The early history of artificial intelligence (AI) traces back to humanity's ques
 
    * Enabled computers to store instructions in memory, laying the foundation for programmable systems.
 
-\<IMAGE\>
+<IMAGE>
+https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/AI/IMAGES/Module1-TuringTest.jpg
+In the test, a human evaluator judges a text transcript of a natural-language conversation between a human and a machine. The evaluator tries to identify the machine, and the machine passes if the evaluator cannot reliably tell them apart.
+<END_IMAGE>
 
-Url: Module0-TuringTest
-
-Text: In the test, a human evaluator judges a text transcript of a natural-language conversation between a human and a machine. The evaluator tries to identify the machine, and the machine passes if the evaluator cannot reliably tell them apart.
-
-\<END\_IMAGE\>
 
 ### **The Dartmouth Workshop (1956)**
 
@@ -175,13 +173,10 @@ AI is a multidisciplinary field encompassing various subfields and approaches:
 * **Statistical AI:** Uses probabilistic models to make predictions based on data.  
 * **Hybrid AI:** Combines symbolic and statistical approaches for greater flexibility.
 
-\<IMAGE\>
-
-Url: Module1-AI\_Field\_Explained
-
-Text: Explanation of different fields of application of AI
-
-\<END\_IMAGE\>
+<IMAGE>
+https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/AI/IMAGES/Module1-AI_Field_Explained.jpg
+Explanation of different fields of application of AI
+<END_IMAGE>
 
 ---
 
@@ -212,13 +207,10 @@ AI's versatility has led to its integration into numerous industries:
    * Autonomous vehicles and traffic optimization.  
    * Example: Waymo’s self-driving car technology.
 
-\<IMAGE\>
-
-Url: Module1-ApplicationsOfAI
-
-Text: Number of applications of AI is very wide and increases constantly
-
-\<END\_IMAGE\>
+<IMAGE>
+https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/refs/heads/main/AI/IMAGES/Module1-ApplicationsOfAI.jpg
+Number of applications of AI is very wide and increases constantly
+<END_IMAGE>
 
 ### **Broader Impacts:**
 
