@@ -3,63 +3,71 @@
    "courseName": "AI",
    "moduleName_ENG": "1-Foundations of AI",
    "moduleURL_ENG": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module1-FoundationsOfAI_WhatIsAI.md",
-   "moduleName_ESP": "1-Fundamentos de la Inteligencia Artificial",
-   "moduleURL_ESP": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module1-FoundationsOfAI_WhatIsAI.md",
+   "moduleName_SPA": "1-Fundamentos de la Inteligencia Artificial",
+   "moduleURL_SPA": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module1-FoundationsOfAI_WhatIsAI.md",
    "quizURL_ENG" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt",
-   "quizURL_ESP" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt"
+   "quizURL_SPA" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt"
+   "videoURL_ENG" : {
+	   "1DYkKrjFg9g2zwd4lQy0RXPL66xWw2ipa",
+	   "1DYkKrjFg9g2zwd4lQy0RXPL66xWw2ipa"
+   },
+   "videoURL_SPA" : {
+	   "1DYkKrjFg9g2zwd4lQy0RXPL66xWw2ipa",
+	   "1DYkKrjFg9g2zwd4lQy0RXPL66xWw2ipa"
+   }
  },
  {
    "courseName": "AI",
    "moduleName_ENG": "2-Maths for AI",
    "moduleURL_ENG": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module2-MathForAI.md",
-   "moduleName_ESP": "2-Matemáticas para la AI",
-   "moduleURL_ESP": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module2-MathForAI.md",
+   "moduleName_SPA": "2-Matemáticas para la AI",
+   "moduleURL_SPA": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module2-MathForAI.md",
    "quizURL_ENG" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt",
-   "quizURL_ESP" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt"
+   "quizURL_SPA" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt"
  },
  {
    "courseName": "AI",
    "moduleName_ENG": "1-Foundations of AI Quiz",
    "moduleURL_ENG": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module1-FoundationsOfAI_WhatIsAI.md",
-   "moduleName_ESP": "1-Fundamentos de la Inteligencia Artificial Quiz",
-   "moduleURL_ESP": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module1-FoundationsOfAI_WhatIsAI.md",
+   "moduleName_SPA": "1-Fundamentos de la Inteligencia Artificial Quiz",
+   "moduleURL_SPA": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module1-FoundationsOfAI_WhatIsAI.md",
    "quizURL_ENG" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt",
-   "quizURL_ESP" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt"
+   "quizURL_SPA" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt"
  },
  {
    "courseName": "AI",
    "moduleName_ENG": "3-Statistics and Probability for AI",
    "moduleURL_ENG": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module3-StatisticsAndProbabilityForAI.md",
-   "moduleName_ESP": "3-Statistics and Probability for AI",
-   "moduleURL_ESP": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module3-StatisticsAndProbabilityForAI.md",
+   "moduleName_SPA": "3-Statistics and Probability for AI",
+   "moduleURL_SPA": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module3-StatisticsAndProbabilityForAI.md",
    "quizURL_ENG" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt",
-   "quizURL_ESP" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt"
+   "quizURL_SPA" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt"
  },
  {
    "courseName": "Maths",
    "moduleName_ENG": "1-Maths Introduction",
    "moduleURL_ENG": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module1-FoundationsOfAI_WhatIsAI.md",
-   "moduleName_ESP": "1-Maths Introduction",
-   "moduleURL_ESP": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module1-FoundationsOfAI_WhatIsAI.md",
+   "moduleName_SPA": "1-Maths Introduction",
+   "moduleURL_SPA": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module1-FoundationsOfAI_WhatIsAI.md",
    "quizURL_ENG" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt",
-   "quizURL_ESP" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt"
+   "quizURL_SPA" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt"
  },
  {
    "courseName": "Statistics",
    "moduleName_ENG": "1-Statistics introduction",
    "moduleURL_ENG": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module1-FoundationsOfAI_WhatIsAI.md",
-   "moduleName_ESP": "1-Statistics introduction",
-   "moduleURL_ESP": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module1-FoundationsOfAI_WhatIsAI.md",
+   "moduleName_SPA": "1-Statistics introduction",
+   "moduleURL_SPA": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module1-FoundationsOfAI_WhatIsAI.md",
    "quizURL_ENG" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt",
-   "quizURL_ESP" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt"
+   "quizURL_SPA" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt"
  },
   {
    "courseName": "Physics",
    "moduleName_ENG": "1-Physics Introduction",
    "moduleURL_ENG": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module1-FoundationsOfAI_WhatIsAI.md",
-   "moduleName_ESP": "1-Physics Introduction",
-   "moduleURL_ESP": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module1-FoundationsOfAI_WhatIsAI.md",
+   "moduleName_SPA": "1-Physics Introduction",
+   "moduleURL_SPA": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module1-FoundationsOfAI_WhatIsAI.md",
    "quizURL_ENG" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt",
-   "quizURL_ESP" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt"
+   "quizURL_SPA" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt"
  }
 ]
