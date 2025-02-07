@@ -7,14 +7,8 @@
    "moduleURL_SPA": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module1-FoundationsOfAI_WhatIsAI.md",
    "quizURL_ENG" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt",
    "quizURL_SPA" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt",
-   "videoURL_ENG" : [
-	   "1DYkKrjFg9g2zwd4lQy0RXPL66xWw2ipa",
-	   "1DYkKrjFg9g2zwd4lQy0RXPL66xWw2ipa"
-   ],
-   "videoURL_SPA" : [
-	   "1DYkKrjFg9g2zwd4lQy0RXPL66xWw2ipa",
-	   "1DYkKrjFg9g2zwd4lQy0RXPL66xWw2ipa"
-   ]
+   "videoURL_ENG" : [ "1DYkKrjFg9g2zwd4lQy0RXPL66xWw2ipa", "1DYkKrjFg9g2zwd4lQy0RXPL66xWw2ipa" ],
+   "videoURL_SPA" : [ "1DYkKrjFg9g2zwd4lQy0RXPL66xWw2ipa", "1DYkKrjFg9g2zwd4lQy0RXPL66xWw2ipa" ]
  },
  {
    "courseName": "AI",
