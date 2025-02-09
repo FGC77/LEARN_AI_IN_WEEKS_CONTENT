@@ -85,7 +85,13 @@
    "moduleName_SPA": "6-Procesamiento de lenguaje natural (NLP)",
    "moduleURL_SPA": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module6-NaturalLanguageProcessing.md",
    "quizURL_ENG" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt",
-   "quizURL_SPA" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt"   
+   "quizURL_SPA" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt",
+   "videoURL_ENG" : [
+	   "1l6Y5vWrP9s2oNnVjFJa6UtcXZ_TwtwgJ"
+   ],
+   "videoURL_SPA" : [
+	   "1l6Y5vWrP9s2oNnVjFJa6UtcXZ_TwtwgJ"
+   ]
  },
  {
    "courseName": "AI",
@@ -94,7 +100,15 @@
    "moduleName_SPA": "7-Computer Vision",
    "moduleURL_SPA": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module7-ComputerVision.md",
    "quizURL_ENG" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt",
-   "quizURL_SPA" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt"   
+   "quizURL_SPA" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt",
+   "videoURL_ENG" : [
+	   "1ioL4P8LJy93DcbmJiCuLBvwGQU1CxLRE",
+	   "1kHoFpcz70TftfQpgy2D0qfsVvKhTyUcx"
+   ],
+   "videoURL_SPA" : [
+	   "1ioL4P8LJy93DcbmJiCuLBvwGQU1CxLRE",
+	   "1kHoFpcz70TftfQpgy2D0qfsVvKhTyUcx"
+   ]
  },
  {
    "courseName": "AI",
@@ -103,7 +117,13 @@
    "moduleName_SPA": "8-Aprendizaje por refuerzo",
    "moduleURL_SPA": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module8-ReinforcementLearning.md",
    "quizURL_ENG" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt",
-   "quizURL_SPA" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt"   
+   "quizURL_SPA" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt",
+   "videoURL_ENG" : [
+	   "1l6Y5vWrP9s2oNnVjFJa6UtcXZ_TwtwgJ"
+   ],
+   "videoURL_SPA" : [
+	   "1l6Y5vWrP9s2oNnVjFJa6UtcXZ_TwtwgJ"
+   ]
  },
  {
    "courseName": "AI",
@@ -112,7 +132,13 @@
    "moduleName_SPA": "9-Futuro de la AI",
    "moduleURL_SPA": "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/Module9-FutureStepsOfAI.md",
    "quizURL_ENG" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt",
-   "quizURL_SPA" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt"   
+   "quizURL_SPA" : "https://raw.githubusercontent.com/FGC77/LEARN_AI_IN_WEEKS_CONTENT/main/AI/QUIZ/Module1-Quiz.txt",
+   "videoURL_ENG" : [
+	   "1l6Y5vWrP9s2oNnVjFJa6UtcXZ_TwtwgJ"
+   ],
+   "videoURL_SPA" : [
+	   "1l6Y5vWrP9s2oNnVjFJa6UtcXZ_TwtwgJ"
+   ]
  },
  {
    "courseName": "Maths",
